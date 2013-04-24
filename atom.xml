@@ -4,7 +4,7 @@
   <title><![CDATA[开普乐之眼]]></title>
   <link href="http://Aaron21.github.com/atom.xml" rel="self"/>
   <link href="http://Aaron21.github.com/"/>
-  <updated>2013-03-17T21:04:55+08:00</updated>
+  <updated>2013-04-24T15:38:25+08:00</updated>
   <id>http://Aaron21.github.com/</id>
   <author>
     <name><![CDATA[Aaron Yang]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[开始]]></title>
+    <link href="http://Aaron21.github.com/blog/2013/04/24/kai-shi/"/>
+    <updated>2013-04-24T15:37:00+08:00</updated>
+    <id>http://Aaron21.github.com/blog/2013/04/24/kai-shi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
